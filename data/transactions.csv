@@ -1,0 +1,18 @@
+Date,Catégorie,Type,Montant,Description
+2025-10-01,Alimentation,Dépense,25.5,Supermarché
+2025-10-03,Transport,Dépense,10.0,Bus
+2025-10-05,Salaire,Revenu,1200.0,Paye mensuelle
+2025-10-06,Cadeau,Revenu,50.0,Anniversaire
+2025-10-26,Alimentation,Dépense,4000.0,
+2025-10-26,Loisirs,Revenu,7000.0,
+2025-10-26,Transport,Dépense,1000.0,
+2025-10-26,Loisirs,Dépense,1700.0,
+2025-10-26,Loisirs,Dépense,1000.0,
+2025-10-26,Loisirs,Dépense,1000.0,
+2025-10-26,Alimentation,Dépense,1000.0,
+2025-10-26,Salaire,Revenu,4000.0,
+2025-10-31,Alimentation,Dépense,5.0,
+2025-10-31,Transport,Revenu,10.0,
+2025-10-31,Transport,Dépense,2.0,
+2025-10-31,Transport,Dépense,50.0,
+2025-10-31,Transport,Dépense,10.0,
